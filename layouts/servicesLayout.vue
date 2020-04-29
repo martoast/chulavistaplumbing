@@ -2,7 +2,6 @@
   <v-app dark>
 
     <AppBar />
-    <Hero />
 
     <v-content>
       <nuxt />

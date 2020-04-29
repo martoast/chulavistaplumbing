@@ -11,6 +11,7 @@
         md6
       >
         <About />
+        <Stats />
         <Services />
         <VideoSheet />
 
@@ -29,6 +30,7 @@ import Services from "~/components/section/Services.vue";
 import VideoSheet from "~/components/section/VideoSheet.vue";
 import About from "~/components/section/About.vue";
 import Contact from "~/components/section/Contact.vue";
+import Stats from "~/components/section/Stats.vue";
 
 export default {
   components: {
@@ -36,7 +38,8 @@ export default {
     VuetifyLogo,
     VideoSheet,
     About,
-    Contact
+    Contact,
+    Stats
   }
 };
 </script>

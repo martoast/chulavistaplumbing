@@ -14,7 +14,7 @@
           <v-item-group>
             <v-row>
               <v-col
-                v-for="({ icon, title, text }, i) in features"
+                v-for="({ route,icon, title, text }, i) in features"
                 :key="i"
                 cols="12"
                 md="4"
@@ -23,6 +23,7 @@
                   class="py-12 px-4"
                   color="grey lighten-5"
                   flat
+                  :to="route"
                 >
                   <v-theme-provider dark>
                     <div>
@@ -70,36 +71,42 @@ export default {
     return {
       features: [
         {
+          route: "/services/waterheater/",
           icon: "mdi-account-group-outline",
           title: "Water Heater Installation/Replacement",
           text:
             "We provide full-service water heater repair and replacement. This includes both Tankless and Tank water heaters, so don't hesitate to contact us today."
         },
         {
+          route: "/services/draincleaning",
           icon: "mdi-chart-line",
           title: "Pressure Regulators & Shut Off Valves",
           text:
-            "Whether your challenge invloves Pressure Regulators, shut off valves, or anything inbetween we can diagnose the problemd and then make the repair."
+            "Whether your challenge involves Pressure Regulators, shut off valves, or anything in between we can diagnose the problem and then make the repair."
         },
         {
+          route: "/",
           icon: "mdi-cellphone-link",
           title: "Leaking Faucets & Faucet Replacement",
           text:
             "It's one of the most common repairs. But leaking faucets can be annoying and costly. Call today to get that leaky faucet fixed once and for all."
         },
         {
+          route: "/",
           icon: "mdi-account-group-outline",
-          title: "Tub/Shower Valve Repairs and Replacement",
+          title: "Toilet Repairs",
           text:
             "Valve repairs are simple jobs in theory. But in reality they can be tricky and even difficult if you don't have the right tools. We can help."
         },
         {
+          route: "/services/draincleaning",
           icon: "mdi-chart-line",
-          title: "High Pressure Drain Cleaning",
+          title: "Drain Cleaning",
           text:
             "We take pride in keeping up with the latest technology when it comes to maximizing results. This includes all high pressure jetting jobs."
         },
         {
+          route: "/",
           icon: "mdi-cellphone-link",
           title: "Sewer Line Replacement",
           text:

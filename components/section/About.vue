@@ -20,10 +20,10 @@
             </h2>
 
             <p class="subtitle-1">
-              At chula vista plumbing, we offer fast turnaround and affordable rates. Even a relatively simple plumbing project can quickly take twists and turns you didn’t expect. Put your mind at ease, and let us take care of your plumbing needs. If you are working with other contractors, we can coordinate our efforts to ensure that your project is completed on time. Our plumbing services include:
+              At The Plumber Inc. we have serviced our neighbors across the Phoenix Metro area for many years. We employ only the highest trained Phoenix plumbers and technicians. If you are looking for a trusted Phoenix area plumber The Plumber Inc. is the company for you. The Plumber Inc specializes in all areas of commercial and residential plumbing.
             </p>
             <p class="mb-5">
-              General plumbing needs, Drain cleaning, Tankless and traditional water heater installation, Pipe inspection and installation, Sewer inspection and related services. At Primo Plumbing, we build our schedule around your needs. We are available every day of the week, so call us for an estimate. We look forward to being your Chula Vista, CA, plumber.
+              From General plumbing needs, Drain cleaning, Tankless and traditional water heater installation, Pipe inspection and installation to Sewer inspection and related services, we do it all! At chula vista plumbing, we build our schedule around your needs. We are available every day of the week, so call us for an estimate. We look forward to being your Chula Vista, CA, plumber.
             </p>
 
             <v-btn

@@ -16,10 +16,7 @@
           dark
           max-width="500"
         >
-          <h1
-            class="mb-4"
-            :class="$vuetify.breakpoint.mdAndUp ? 'display-2' : 'display-1'"
-          >
+          <h1 class='mb-4 display-2'>
             Chula Vista Plumbing
           </h1>
 
