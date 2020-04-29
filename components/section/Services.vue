@@ -92,7 +92,7 @@ export default {
             "It's one of the most common repairs. But leaking faucets can be annoying and costly. Call today to get that leaky faucet fixed once and for all."
         },
         {
-          route: "/",
+          route: "/services/toiletrepairs",
           icon: "mdi-account-group-outline",
           title: "Toilet Repairs",
           text:

@@ -3,10 +3,7 @@
     <section>
       <v-container>
         <div class="py-2" />
-        <!-- <SectionHeader
-          sub-header="Chula vista premium plumbing services"
-          header="chula vista plumbing"
-        /> -->
+
         <v-row>
           <v-col
             cols="12"
