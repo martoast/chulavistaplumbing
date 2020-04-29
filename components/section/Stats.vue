@@ -5,7 +5,7 @@
 
       <v-parallax
         :height="$vuetify.breakpoint.smAndDown ? 700 : 500"
-        :src="this.hero"
+        src="https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg"
       >
 
         <v-container fill-height>

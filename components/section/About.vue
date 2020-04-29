@@ -58,7 +58,7 @@
 import SectionHeader from "~/components/section/SectionHeader.vue";
 export default {
   data: () => ({
-    image: require("@/assets/plumbinghero.jpg")
+    image: require("@/assets/plumbing.png")
   }),
   components: { SectionHeader }
 };

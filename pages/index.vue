@@ -12,6 +12,7 @@
       >
         <About />
         <Stats />
+        <DemoContact />
         <Services />
         <VideoSheet />
 
@@ -31,6 +32,7 @@ import VideoSheet from "~/components/section/VideoSheet.vue";
 import About from "~/components/section/About.vue";
 import Contact from "~/components/section/Contact.vue";
 import Stats from "~/components/section/Stats.vue";
+import DemoContact from "~/components/section/DemoContact.vue";
 
 export default {
   components: {
@@ -39,7 +41,8 @@ export default {
     VideoSheet,
     About,
     Contact,
-    Stats
+    Stats,
+    DemoContact
   }
 };
 </script>
