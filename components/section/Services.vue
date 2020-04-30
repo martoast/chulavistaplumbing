@@ -106,7 +106,7 @@ export default {
             "We take pride in keeping up with the latest technology when it comes to maximizing results. This includes all high pressure jetting jobs."
         },
         {
-          route: "/",
+          route: "/services/sewer-repair/",
           icon: "mdi-cellphone-link",
           title: "Sewer Line Replacement",
           text:
