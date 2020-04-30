@@ -94,27 +94,27 @@ export default {
     categories: [
       {
         title: "Water Heater Installation or Replacement",
-        link: "/services/seo"
+        link: "/services/waterheater"
       },
       {
         title: "Pressure Regulators & Shut Off Valves",
-        link: "/services/web-development"
+        link: "/services/waterlineleaks"
       },
       {
         title: "Leaking Faucets & Faucet Replacement",
-        link: "/services/ecommerce"
+        link: "/services/waterlineleaks"
       },
       {
-        title: "Tub/Shower Valve Repairs and Replacement",
-        link: "/services/ppc"
+        title: "Toilet Repairs",
+        link: "/services/toiletrepairs"
       },
       {
         title: "High Pressure Drain Cleaning",
-        link: "/services/ecommerce"
+        link: "/services/draincleaning"
       },
       {
         title: "Sewer Line Replacement",
-        link: "/services/ecommerce"
+        link: "/services/sewer-repair"
       }
     ],
     company: [

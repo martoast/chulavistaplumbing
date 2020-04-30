@@ -152,8 +152,8 @@ export default {
           text: "Services"
         },
         {
-          to: "/projects",
-          text: "Projects"
+          to: "/about",
+          text: "About"
         },
         {
           to: "/contact",
