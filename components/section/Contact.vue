@@ -33,8 +33,8 @@
               >
                 <v-card-title>Mailing Address</v-card-title>
                 <v-card-text>
-                  <div>2620 Amternest Parkway</div>
-                  <div>El Paso TX 79938</div>
+                  <div>2365 palomira ct</div>
+                  <div>Chula Vista, CA</div>
                   <div>United States</div>
                 </v-card-text>
               </v-col>
@@ -46,19 +46,18 @@
               >
                 <v-card-title>Contact Info</v-card-title>
                 <v-card-text>
-                  <div>+1 (321) 383-4531</div>
+                  <div>+1 (619) 888-5248</div>
                   <div>
-                    <a href="#">contact@alphaconstruction.com</a>
+                    <a href="#">alexmartos96@gmail.com</a>
                   </div>
-                  <div>
-                    <a href="#">@alphaconstruction</a>
-                  </div>
+
                 </v-card-text>
               </v-col>
 
               <v-col cols="12">
+
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6996653.320726327!2d-104.56654057311077!3d31.100430144601546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864070360b823249%3A0x16eb1c8f1808de3c!2sTexas!5e0!3m2!1sen!2sus!4v1563207206020!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53760.59455607247!2d-117.05954951625577!3d32.631833873670566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d94e4565c3aacf%3A0x46ccb8734b8f2bd3!2sChula%20Vista%2C%20CA%2C%20USA!5e0!3m2!1sen!2smx!4v1588236915086!5m2!1sen!2smx"
                   width="100%"
                   height="400"
                   frameborder="0"

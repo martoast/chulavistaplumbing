@@ -54,7 +54,7 @@
           <v-col
             class="text-center black white--text pa-3"
             cols="12"
-          >&copy; 2020 Boost Media Inc — All Rights reserved.</v-col>
+          >&copy; 2020 Chula Vista Plumbing — All Rights reserved.</v-col>
         </v-row>
       </v-footer>
     </div>

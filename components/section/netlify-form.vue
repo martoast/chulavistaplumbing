@@ -21,8 +21,8 @@
           flat
         >
           <SectionHeader
-            header="Work with Boost."
-            subHeader="Tell us about your project, and our industry experts will share ideas and recommendations for how to use Digital Marketing to make it successful!"
+            header="Contact Chula Vista plumbing today!"
+            subHeader="Tell us what your issue is and we will send a team of experts to fix it!"
           />
           <v-row>
             <v-col cols="12">

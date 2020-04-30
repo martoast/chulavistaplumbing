@@ -24,7 +24,7 @@
                 </h2>
 
                 <p class="subtitle-1">
-                  Primo Plumbing has been servicing Chula Vista, California and the surrounding areas for over two decades. We are available for all your plumbing needs.For more than 30 years, we have been offering exceptional customer service and staying current with the latest technology. Whether you just want to make minor updates, or you are planning extensive renovations, our plumbing contractors are ready to get to work.
+                  Chula plumbing has been servicing Chula Vista, California and the surrounding areas for over two decades. We are available for all your plumbing needs. For years, we have been offering exceptional customer service and staying current with the latest technology. Whether you just want to make minor updates, or you are planning extensive renovations, our plumbing contractors are ready to get to work.
                 </p>
 
                 <v-btn
