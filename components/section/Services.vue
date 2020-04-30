@@ -78,14 +78,14 @@ export default {
             "We provide full-service water heater repair and replacement. This includes both Tankless and Tank water heaters, so don't hesitate to contact us today."
         },
         {
-          route: "/services/draincleaning",
+          route: "/services/waterlineleaks",
           icon: "mdi-chart-line",
-          title: "Pressure Regulators & Shut Off Valves",
+          title: "Water Line Leak Repairs",
           text:
             "Whether your challenge involves Pressure Regulators, shut off valves, or anything in between we can diagnose the problem and then make the repair."
         },
         {
-          route: "/",
+          route: "/services/repiping",
           icon: "mdi-cellphone-link",
           title: "Leaking Faucets & Faucet Replacement",
           text:
