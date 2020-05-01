@@ -66,7 +66,7 @@
             </v-col>
             <v-col cols="12">
               <v-select
-                :items="['SEO', 'Ecommerce','Lead-Generation','Developoment','Payperclick','Facebook Marketing' ]"
+                :items="['Water Heater', 'Drain Cleaning','Repiping','Sewer Services','Toilet Services','WaterLine Services' ]"
                 label="What are you looking for*"
                 for="looking4"
                 name="lookining4"

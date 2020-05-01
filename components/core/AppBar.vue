@@ -128,7 +128,7 @@ export default {
       {
         title: "Repiping",
         icon: "dashboard",
-        to: "/repiping/"
+        to: "/services/repiping"
       },
       {
         title: "Sewer Repair",

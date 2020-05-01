@@ -25,17 +25,14 @@
                   flat
                   :to="route"
                 >
-                  <v-theme-provider dark>
+                  <v-theme-provider light>
                     <div>
-                      <v-avatar
-                        color="primary"
-                        size="88"
-                      >
-                        <v-icon
-                          large
-                          v-text="icon"
-                        ></v-icon>
-                      </v-avatar>
+
+                      <v-icon
+                        large
+                        v-text="icon"
+                      ></v-icon>
+
                     </div>
                   </v-theme-provider>
 
@@ -72,42 +69,42 @@ export default {
       features: [
         {
           route: "/services/waterheater/",
-          icon: "mdi-account-group-outline",
+          icon: "mdi-checkbox-marked-circle-outline",
           title: "Water Heater Installation/Replacement",
           text:
             "We provide full-service water heater repair and replacement. This includes both Tankless and Tank water heaters, so don't hesitate to contact us today."
         },
         {
           route: "/services/waterlineleaks",
-          icon: "mdi-chart-line",
+          icon: "mdi-checkbox-marked-circle-outline",
           title: "Water Line Leak Repairs",
           text:
             "Whether your challenge involves Pressure Regulators, shut off valves, or anything in between we can diagnose the problem and then make the repair."
         },
         {
           route: "/services/repiping",
-          icon: "mdi-cellphone-link",
+          icon: "mdi-checkbox-marked-circle-outline",
           title: "Leaking Faucets & Faucet Replacement",
           text:
             "It's one of the most common repairs. But leaking faucets can be annoying and costly. Call today to get that leaky faucet fixed once and for all."
         },
         {
           route: "/services/toiletrepairs",
-          icon: "mdi-account-group-outline",
+          icon: "mdi-checkbox-marked-circle-outline",
           title: "Toilet Repairs",
           text:
             "Valve repairs are simple jobs in theory. But in reality they can be tricky and even difficult if you don't have the right tools. We can help."
         },
         {
           route: "/services/draincleaning",
-          icon: "mdi-chart-line",
+          icon: "mdi-checkbox-marked-circle-outline",
           title: "Drain Cleaning",
           text:
             "We take pride in keeping up with the latest technology when it comes to maximizing results. This includes all high pressure jetting jobs."
         },
         {
           route: "/services/sewer-repair/",
-          icon: "mdi-cellphone-link",
+          icon: "mdi-checkbox-marked-circle-outline",
           title: "Sewer Line Replacement",
           text:
             "If you want sewer line replacement or relining and clean out installation, give us a call. We will do the job right."
