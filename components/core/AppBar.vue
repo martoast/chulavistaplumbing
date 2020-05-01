@@ -71,10 +71,10 @@
           <v-list-item>
             <v-list-item-content>
               <v-list-item-title class="title">
-                Boost Media Inc
+                Chula Vista Plumbing
               </v-list-item-title>
               <v-list-item-subtitle>
-                Digital Marketing
+                We got you covered.
               </v-list-item-subtitle>
             </v-list-item-content>
           </v-list-item>
@@ -120,22 +120,30 @@ export default {
     title: "Vuetify.js",
     Menuitems: [
       { title: "Home", icon: "mdi-home-city", to: "/" },
-      { title: "SEO", icon: "dashboard", to: "/services/seo/" },
       {
-        title: "Web Development",
+        title: "Water Heater Services",
         icon: "dashboard",
-        to: "/services/web-development/"
-      },
-      { title: "E-commerce", icon: "dashboard", to: "/services/ecommerce/" },
-      {
-        title: "Paid Advertizing",
-        icon: "dashboard",
-        to: "/services/ppc/"
+        to: "/services/draincleaning/"
       },
       {
-        title: "Social Media",
+        title: "Repiping",
         icon: "dashboard",
-        to: "/services/socialmedia/"
+        to: "/repiping/"
+      },
+      {
+        title: "Sewer Repair",
+        icon: "dashboard",
+        to: "/services/sewer-repair/"
+      },
+      {
+        title: "Toilet Repair",
+        icon: "dashboard",
+        to: "/services/toiletrepairs/"
+      },
+      {
+        title: "Water Line Leaks",
+        icon: "dashboard",
+        to: "/services/WaterLeaks/"
       },
       { title: "Contact Us", icon: "dashboard", to: "/contact" }
     ]
