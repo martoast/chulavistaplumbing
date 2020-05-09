@@ -20,10 +20,10 @@
             </h2>
 
             <p class="subtitle-1">
-              With many years of collective experience in dealing with even the most troublesome drain problems, we simply know how to fix pipes. No matter if we’re talking about pipe scale, buildups or just your average clogging, they’re all common causes for leaks and overflowing drains. And if not properly dealt with, they can lead to serious issues that in time will affect the entire building.
+              If the issues in the drain are not dealt with in time, they can cause major problems in the future which can affect the whole residential or commercial area. Whether it is pipe scale, buildups or minor clogging, they can lead to leaks and overflowing drains. These issues can compound with time to create big troubles. Contact our plumbers at Chula Vista who boast years of experience in handling drain issues.
             </p>
             <p class="mb-5">
-              We are fully equipped when it comes to cleaning drains, pipes and sewers. Due to a wide range of machines we have to ability to take care of everything ranging from even the smallest to the largest clog. This also means our efficiency is good enough to directly deal with most issues on location, within the shortest possible time frame. Our fully equipped vehicles can also deliver any needed extra equipment and material to accommodate all needs. We always make sure to use the right tools for the job, which might mean mechanical cleaning, jet flushing or whatever is needed to fix your problem.
+              Furthermore, the availability of all the necessary equipment to clean pipes, sewers and drains ensures that the clogs of every scale, whether very small or large, are easily removed by our plumbers. Be it mechanical cleaning, jet flushing or any other necessary means, our plumbers make use of the best resource at hand to deal with the issue. In doing so, high efficiency is maintained and the task is completed in a short period of time.
             </p>
 
             <v-btn

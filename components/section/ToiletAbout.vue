@@ -20,10 +20,10 @@
             </h2>
 
             <p class="subtitle-1">
-              At The Plumber Inc., we’re dedicated to always being available. And we feel that it’s simply necessary in order to meet the demands of our customers. For emergencies, we’re available every hour of the day for seven days per week. This means that you never need to worry about leaks or clogs. If you’re in need of maintenance, repairs or want to install a new toilet, we’re also happy to help. With a wide range of both commercial and residential customers, we’ve got the experience and know-how to offer you the best possible results.
+              While the toilet issues are unexpected, you should always try to act in advance to avoid unnecessary costs of repairs. Furthermore, repairing the issues in the toilet is an urgent matter. Keeping that in mind, we, at Chula Vista Plumbing, extend our services every day of the week and for all hours so that your issues are solved in time.
             </p>
             <p class="mb-5">
-              Toilet problems are often unavoidable. But by being proactive, you can often avoid costly repairs. Contact us and we’ll help you diagnose and fix any problem you might be experience.
+              If you are in need of repairing leaks or clogs in your toilet, you can contact us and we will get back to you swiftly. Also, you can count on us to repair or install a new toilet in your commercial and residential areas. Reach out to us and we assure you that your issue will be properly diagnosed and fixed for good.
             </p>
 
             <v-btn

@@ -24,7 +24,7 @@
                 </h2>
 
                 <p class="subtitle-1">
-                  Chula plumbing has been servicing Chula Vista, California and the surrounding areas for over two decades. We are available for all your plumbing needs. For years, we have been offering exceptional customer service and staying current with the latest technology. Whether you just want to make minor updates, or you are planning extensive renovations, our plumbing contractors are ready to get to work.
+                  With over two decades of experience serving Chula Vista, California and the adjacent areas, Chula Vista Plumbing has solutions to all of your plumbing necessities, whether it is just minor tweaks or major renovations. We keep ourselves updated with the latest technology and equipment, which is one of the reasons for our customers to be highly satisfied with us. Contact us for your needs and our plumbing experts will get to work in no time.
                 </p>
 
                 <v-btn

@@ -34,10 +34,10 @@
             </h2>
 
             <p class="subtitle-1">
-              There are times when you simply want a new toilet, or when you feel that repairs are unavoidable. But dealing with these things on your own can be risky business. Not only will an improper job increase the risk of damage, but doing things on your own usually requires too much time and dedication. When contacting us, you’ll always get a great quote and you can be sure of the fact that we will respect your time. Contact The Plumber Inc., and let us make sure that your repair or installation becomes a great experience.
+              While one might be tempted to repair the toilets on their own but it might not always be a good idea. You will need to spend a lot of time repairing the problem. Also, not having the right technique and equipment can lead to further damage. Or, you might simply want to replace your toilet with a new one. Whether to repair or replace your toilet, you can rely on the quality and affordable services provided by Chula Vista plumbers. Let us know your schedule and we will be there at your service at the designated time.
             </p>
             <p class="mb-5">
-              Leaks are very common problems. But that doesn’t mean they’re any less of a hassle. Fortunately, they can often be fixed without having to replace the entire toilet. With access to a wide range of tools and components, we can take care of even the most pesky leaks. Thanks to many years of experience, our technicians can fix valves, gaskets, rings and all other things that are often associated with leaks.
+              While leaks are a minor issue in your toilets, they can be quite frustrating if they occur frequently. However, you will not need to replace your toilet mostly as leaks can be easily managed. With all the necessary equipment available to our Chula Vista plumbers, we can easily fix issues such as gaskets, rings, valves or any other issues that lead to the leakage.
             </p>
 
             <v-btn

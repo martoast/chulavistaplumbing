@@ -20,10 +20,10 @@
             </h2>
 
             <p class="subtitle-1">
-              Over the years pipes can degrade and corrode and this can cost you thousands of dollars should they fail or leak. New pipes on your property can mean that your water, gas, and sewage is transported through your walls and under your floors safely and as designed. Letting your pipes go un-repaired or un-replaced can mean having all of that leaking and spreading throughout your property. Our Chula Vista Repiping service is the best in the area.
+              Pipes tend to corrode over the years due to which they need to be repaired or replaced. Not taking care of the pipes on time can result in huge costs to be incurred in the future. Not only that, but you will also have to go through the trouble of all the leaking and spreading of the water, gas or sewage that runs through the pipes, in your property. Letting our plumbers at Chula Vista Plumbing to repipe the worn-out pipes will ensure the safety of the gas, water and sewage pipes while they are transported through the walls and under the floors to the designated place.
             </p>
             <p class="mb-5">
-              It may seem obvious what the benefits of repiping your home or commercial business but what many don't understand is the damaged caused by leaking or damaged pipes are many times not covered by insurance. Old pipes failing fall under both water seepage and wear and tear and many homeowners are stuck with an unmanageable bill. Take control and repipe your property before it becomes an issue.
+              Many people fail to see the clear advantages of repiping. Also, what they fail to realize is that insurance might not cover the damage due to leaking or damaged pipes. You might end up with a heavy bill to pay in replacing your old pipes in addition to the amending the damage done by the old pipes to your property. So, take the professional help of Chula Vista plumbers in repiping your home or commercial business.
             </p>
 
             <v-btn

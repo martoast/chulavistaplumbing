@@ -16,14 +16,14 @@
               :class="[$vuetify.breakpoint.mdAndUp ? 'display-1' : 'headline']"
               class="mb-4"
             >
-              Don’t tackle plumbing issues on your own.
+              Let professionals handle your plumbing issues.
             </h2>
 
             <p class="subtitle-1">
-              At The Plumber Inc. we have serviced our neighbors across the Phoenix Metro area for many years. We employ only the highest trained Phoenix plumbers and technicians. If you are looking for a trusted Phoenix area plumber The Plumber Inc. is the company for you. The Plumber Inc specializes in all areas of commercial and residential plumbing.
+              For many years now, we, at Chula Vista Plumbing, have been serving our community in the Phoenix Metro area with excellent plumbing services. Our representatives are the best professionals, with a high level of training and expertise, that you can find in the region. So, if you are concerned with your plumbing issues at hand, seek no further. Here, at Chula Vista Plumbing, you will find solutions to all of your plumbing needs.
             </p>
             <p class="mb-5">
-              From General plumbing needs, Drain cleaning, Tankless and traditional water heater installation, Pipe inspection and installation to Sewer inspection and related services, we do it all! At chula vista plumbing, we build our schedule around your needs. We are available every day of the week, so call us for an estimate. We look forward to being your Chula Vista, CA, plumber.
+              We extend our services to both commercial and residential plumbing needs. Some of the services that we provide, but not limited to, are Drain Cleaning, Pipe Inspection and Installation to Sewer Inspection, Tankless and Traditional Water Heater Installation and all the general plumbing needs. Our services are available every day of the week. Also, just let us know your schedule and we will facilitate the service accordingly. We look forward to becoming a one-stop solution to all your plumbing needs at Chula Vista, CA.
             </p>
 
             <v-btn

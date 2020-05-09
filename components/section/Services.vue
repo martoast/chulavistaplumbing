@@ -72,42 +72,42 @@ export default {
           icon: "mdi-checkbox-marked-circle-outline",
           title: "Water Heater Installation/Replacement",
           text:
-            "We provide full-service water heater repair and replacement. This includes both Tankless and Tank water heaters, so don't hesitate to contact us today."
+            "Our water heater installation and replacement service include both tank and tankless water heaters. Feel free to contact us anytime and we will get back to you soon."
         },
         {
           route: "/services/waterlineleaks",
           icon: "mdi-checkbox-marked-circle-outline",
           title: "Water Line Leak Repairs",
           text:
-            "Whether your challenge involves Pressure Regulators, shut off valves, or anything in between we can diagnose the problem and then make the repair."
+            "Be it Shut Off Valves, Pressure Regulators, or any other similar problems, leave it to our plumbing experts to identify and solve the issue."
         },
         {
           route: "/services/repiping",
           icon: "mdi-checkbox-marked-circle-outline",
           title: "Leaking Faucets & Faucet Replacement",
           text:
-            "It's one of the most common repairs. But leaking faucets can be annoying and costly. Call today to get that leaky faucet fixed once and for all."
+            "As simple as it may seem, faucets can pose issues to every household. Get your faucet fixed or replaced quickly to save you from frustration."
         },
         {
           route: "/services/toiletrepairs",
           icon: "mdi-checkbox-marked-circle-outline",
           title: "Toilet Repairs",
           text:
-            "Valve repairs are simple jobs in theory. But in reality they can be tricky and even difficult if you don't have the right tools. We can help."
+            "While valve repairs might seem simple, without the necessary equipment you might not be able to do it yourself. In such a case, we are a call away from repairing them."
         },
         {
           route: "/services/draincleaning",
           icon: "mdi-checkbox-marked-circle-outline",
           title: "Drain Cleaning",
           text:
-            "We take pride in keeping up with the latest technology when it comes to maximizing results. This includes all high pressure jetting jobs."
+            "We handle all high pressure jetting jobs with modern technology, which increases the efficiency of work. "
         },
         {
           route: "/services/sewer-repair/",
           icon: "mdi-checkbox-marked-circle-outline",
           title: "Sewer Line Replacement",
           text:
-            "If you want sewer line replacement or relining and clean out installation, give us a call. We will do the job right."
+            "Whether for sewer line replacement or sewer relining, our professionals are ready to help with your needs."
         }
       ]
     };

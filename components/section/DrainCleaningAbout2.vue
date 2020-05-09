@@ -30,10 +30,10 @@
             </h2>
 
             <p class="subtitle-1">
-              The main line is in many ways the most important drain. This means that clogged man lines can lead to serious issues if not quickly dealt with. But such clogs can be hard to find since it’s often not apparent exactly where the problem lies. We’ll identify and properly address the problem with the help of rooter machines, hydro jets or whatever is needed to unclog the main line.
+              The problems of clogs are not always easy to locate for people. As the main line is the most important drain line, issues of clogging in the main line can create major issues if they are not attended to at the right time. Our plumbing experts at Chula Vista Plumbing have access to equipment such as rooter machines and hydro jets, among other machines, to help them diagnose and solve the issue of clogging in the main line.
             </p>
             <p class="mb-5">
-              We have the needed equipment to deal with even the largest main line obstruction. By making sure to properly evaluate the problem at hand, we can apply the proper measures to effectively solve your problem. A big part of this is being able to actually access the main line. Our experience technicians have the right amount of know-how to deal with both older and modern mainlines.
+              What the Chula Vista plumbers do is evaluate the ongoing issue before deciding on a solution. Depending upon the evaluation, they devise the best possible way to deal with the issue, using the best possible equipment out of the range of equipment available to the plumbers. Whether an old or a new version of the main line, our technicians are well versed to deal with them.
             </p>
 
             <v-btn

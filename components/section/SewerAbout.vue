@@ -20,10 +20,11 @@
             </h2>
 
             <p class="subtitle-1">
-              Even though sewer lines are definitely built to last, nothing lasts for ever. Time takes its natural toll, and unexpected damage might also occur. Luckily, many problems can be fixed and with proper maintenance you won’t have to consider a replacement for years to come. But when replacement becomes a reality, we’ve got you covered. At The Plumber Inc., we can offer quality sewer line replacements in and around Phoenix.
+              While sewer lines might be known for their durability, they come with an expiration date too. So, they will need to be dealt with before any problems escalate from their damage due to time or by accident. Sewer lines won’t need a replacement for years but in case they do, you can count on our technicians at Chula Vista Plumbing to do the job for you in Phoenix and surrounding places.
             </p>
             <p class="mb-5">
-              With many years of collective experience, we’re very aware of what makes a sewer line replacement successful. We’ll do everything we can in order to ensure that you’re satisfied with the results. Contact us today for a quote. We’re looking forward to hearing from you.
+              Years of experience in this field makes us a proper choice to make in replacing your sewer line.
+              Don’t hesitate to contact us for any consultations for a price quote. We will make sure that you will be satisfied with our services.
             </p>
 
             <v-btn

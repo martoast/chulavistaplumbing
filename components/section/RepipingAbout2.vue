@@ -53,7 +53,7 @@
 
             </div>
             <div class="pt-2">
-              <p>Our Chula Vista plumbers and technicians are experienced with both commercial and residential repiping services. Gas lines, water lines, sewage lines, valves, mains, sinks, and even fire sprinklers can all potentially need a Phoenix are plumber from The Plumber Inc to repair and replace these pipes.</p>
+              <p>Expert in both commercial and residential repiping services, you can count on professionals at Chula Vista Plumbing to get the job done. For repairing and replacing pipes in any of the Gas lines, sewage lines, water lines, mains, sinks, valves or fire sprinklers, don’t hesitate to contact us. </p>
 
             </div>
 

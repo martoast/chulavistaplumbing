@@ -20,10 +20,11 @@
             </h2>
 
             <p class="subtitle-1">
-              Keeping your water line clean and free of obstruction is vital to preventing issues with water flow, flooding, leaking, and mold development. The water line provides water throughout your home or business. Water line leak repairs can be expensive so it can be essential to trust the maintenance of them to an accomplished Phoenix plumber. Our team of Phoenix leak repair experts at The Plumber Inc. we can provide you with dedicated water line services that can help avoid costly repairs in the future.
+              Minor issues can build up over the years in your water line which will compound to create a major problem in the future, which includes blockage in water flow, leaking, flooding or mold development. So as to avoid such problems from occurring, necessary attention needs to be paid from time to time to keep your water line clean and free of any hindrances. Repairing the water line will not only save you from future troubles but will also rid you of the unnecessary costly repairs that you might have to incur when the situation worsens. Let our experts at Chula Vista Plumbing attend any services related to the maintenance of your water line.
             </p>
             <p class="mb-5">
-              Most people experience major problems with their water lines after small problems have compounded over time. Many people need repairs when tree roots end up piercing the pipe and preventing the flow of water through the pipe. Over time, the ground beneath your building can shift and create cracks in the water line. It might also be that the pipes supporting the water line are aged and not as effective as they used to be.
+              While many of the issues might be created by us along with the time that disrupts the flow of water in our water line, some of the unforeseen events include tree roots piercing the pipe or the cracking of the water line due to the shifting of the ground beneath the building. Or it might just be that the water line might be in need of replacement after years of use. Whatever the case, our team, at Chula Vista Plumbing, is always ready to fix the issue.
+
             </p>
 
             <v-btn

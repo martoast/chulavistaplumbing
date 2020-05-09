@@ -41,17 +41,18 @@
             </p> -->
             <div class="headline">
               <v-list>
-                <v-list-item-title class="display-1">Replacement or repairs might be a good idea when: </v-list-item-title>
-                <v-list-item>Your existing pipes are pushing five decades old</v-list-item>
-                <v-list-item>You are experiencing regular clogging and buildups</v-list-item>
-                <v-list-item>You are noticing non-specific issues with your sink, toilet and such</v-list-item>
-                <v-list-item>The water is not draining as quickly as it used to</v-list-item>
-                <v-list-item>There is a distinct smell that doesn’t go away</v-list-item>
+                <v-list-item-title class="display-1">When should you consider to replace or repair the sewer line: </v-list-item-title>
+                <v-list-item>Pipes are more than 50 years old</v-list-item>
+                <v-list-item>Presence of persistent distinct smell</v-list-item>
+                <v-list-item>The frequency of clogging and buildups is high</v-list-item>
+                <v-list-item>The draining of water has slowed down drastically</v-list-item>
+
               </v-list>
 
             </div>
             <div class="pt-2">
-              <p>These are only a few examples of things that might indicate a problem with your sewer line. But they don’t necessarily mean that you’re in need of a replacement. More often than not, repairs are enough. By contacting us, we can arrange a proper inspection to see what needs to be done. Hopefully, it will only be a minor issue. But if you’re in need of a new sewer line, we can absolutely arrange one. We can offer very competitive prices ensuring that you stay on budget.</p>
+              <p>However, the above points don’t cover all the issues that point out a sewer line problem. The good thing about the problem in the sewer line is that they need not be replaced and repairing them can solve the problem usually. Contact us to find out the severity of the issue. While we will try our best to repair the line but some lines are beyond repair and need replacement. In such cases, we can still help you by providing you sewer replacement service at an affordable price.
+              </p>
 
             </div>
 

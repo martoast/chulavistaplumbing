@@ -20,10 +20,10 @@
             </h2>
 
             <p class="subtitle-1">
-              A broken water heater can be a serious problem. And it’s often also an urgent matter. At The Plumber Inc., we are always available to instantly fix your heater. Our experience ranges from most of the major current brands to older no longer supported heaters. In most cases, we’ll be able to extend the life of even the oldest water heater. But if a repair is not possible, we’ll always make sure to offer you the best possible price for new installations of reliable models.
+              A broken water heater poses a major concern for people which needs to be attended to immediately. Here, at Chula Vista Plumbing, you will find plumbing experts ready to be at your service anytime to rid you of your issues. Our professionals are well equipped to fix even the oldest of water heater versions to the most latest ones. In cases that the old water heater can be repaired, our professionals will put their utmost effort to increase the working period of the heater. However, if the heater cannot be repaired, you can trust us to deliver you the latest, efficient and reliable water heater at a reasonable price.
             </p>
             <p class="mb-5">
-              An important part of our business model is to always provide you with an offer up front. This means that we’ll offer you a free quick consultation and provide you with either a price estimate or a final price that we actually stick to. This means that you’ll never have to worry about unexpected costs or become the victim of unreliable pricing models. By avoiding hidden fees, we have earned the trust of many customers in and around Phoenix. We’re looking forward to hearing from you.
+              One of the reasons for our ability to deliver positive customer experience and trust is because we are clear in discussing all the costs involved in the process. Before beginning the work, we provide you with a price estimation or the final amount and we make sure that we will work under the discussed price. We assure you that there will be no unexpected costs or hidden fees during or after work.
             </p>
 
             <v-btn

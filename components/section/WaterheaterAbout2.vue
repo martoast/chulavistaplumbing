@@ -33,10 +33,10 @@
             </h2>
 
             <p class="subtitle-1">
-              The anode rod is a vital part of every water heater. But unfortunately, it often becomes very corroded. This is unavoidable since the rod is actually supposed to attract the corrosive elements of the water. It’s basically a part of the heaters protection system, ensuring that the major components are spared from corrosion. By regularly replacing the anode rod, you can increase the lifespan of your water heater and make sure that it’s functioning properly for years to come. For people in and around Phoenix, The Plumber Inc., has become a trusted choice for anode rod replacements.
+              Anode Rod, a major part of the water heater, is highly susceptible to corrosion. Unfortunately, this process of corrosion is inevitable in all water heaters as the rod attracts corrosive elements of water. However, in taking this damage upon itself, Anode Rod serves as the heater’s protection system by protecting other components of the system from corrosion. So, if you want to boost the lifespan of your water heater, you need to replace the anode rod regularly. This way, your heating system can continue performing its function efficiently for a long period of time. Chula Vista Plumbing offers anal rod replacement service at a very reasonable price to people of Pheonix and the surrounding areas.
             </p>
             <p class="mb-5">
-              By making sure to regularly maintain the anode rod, you can avoid having to buy a new water heater. This means huge savings. In many cases, this relatively simply fix can double or even triple the expected lifespan of a water heater. We have the experience to proper replace anode rods, and the knowledge to know when it’s time to do it. Contact The Plumber Inc., for a free consultation. We’ll make sure your water heater gives you the most bang for your buck.
+              Don’t hesitate to replace the anode rods in your water heater in time as it can save you from spending more. You might end up needing to buy a new water heater for your hesitance to replace the rods. In taking the right decision of changing the rods occasionally, the lifespan of the water heater can be doubled and even tripled. Feel free to take free consultations from the professionals at Chula Vista Plumbing. We will make sure that your heater will be up and running for a number of years.
             </p>
 
             <v-btn

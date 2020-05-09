@@ -21,7 +21,7 @@
           </h1>
 
           <p class="title font-weight-light">
-            <strong>Premier San Diego Plumber Serving Chula Vista for years.</strong>
+            <strong>Let professionals handle your plumbing issues.</strong>
           </p>
 
           <div class="py-4" />
